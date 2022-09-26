@@ -1,0 +1,15 @@
+D:\Estudo\C#\POO\heroi\heroi\bin\Debug\net6.0\heroi.exe
+D:\Estudo\C#\POO\heroi\heroi\bin\Debug\net6.0\heroi.deps.json
+D:\Estudo\C#\POO\heroi\heroi\bin\Debug\net6.0\heroi.runtimeconfig.json
+D:\Estudo\C#\POO\heroi\heroi\bin\Debug\net6.0\heroi.dll
+D:\Estudo\C#\POO\heroi\heroi\bin\Debug\net6.0\heroi.pdb
+D:\Estudo\C#\POO\heroi\heroi\obj\Debug\net6.0\heroi.csproj.AssemblyReference.cache
+D:\Estudo\C#\POO\heroi\heroi\obj\Debug\net6.0\heroi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudo\C#\POO\heroi\heroi\obj\Debug\net6.0\heroi.AssemblyInfoInputs.cache
+D:\Estudo\C#\POO\heroi\heroi\obj\Debug\net6.0\heroi.AssemblyInfo.cs
+D:\Estudo\C#\POO\heroi\heroi\obj\Debug\net6.0\heroi.csproj.CoreCompileInputs.cache
+D:\Estudo\C#\POO\heroi\heroi\obj\Debug\net6.0\heroi.dll
+D:\Estudo\C#\POO\heroi\heroi\obj\Debug\net6.0\refint\heroi.dll
+D:\Estudo\C#\POO\heroi\heroi\obj\Debug\net6.0\heroi.pdb
+D:\Estudo\C#\POO\heroi\heroi\obj\Debug\net6.0\heroi.genruntimeconfig.cache
+D:\Estudo\C#\POO\heroi\heroi\obj\Debug\net6.0\ref\heroi.dll
