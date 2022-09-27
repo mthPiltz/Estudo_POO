@@ -1,0 +1,15 @@
+D:\Estudo\C#\POO\VetoriusInfinitus\VetoriusInfinitus\VetoriusInfinitus\bin\Debug\net6.0\VetoriusInfinitus.exe
+D:\Estudo\C#\POO\VetoriusInfinitus\VetoriusInfinitus\VetoriusInfinitus\bin\Debug\net6.0\VetoriusInfinitus.deps.json
+D:\Estudo\C#\POO\VetoriusInfinitus\VetoriusInfinitus\VetoriusInfinitus\bin\Debug\net6.0\VetoriusInfinitus.runtimeconfig.json
+D:\Estudo\C#\POO\VetoriusInfinitus\VetoriusInfinitus\VetoriusInfinitus\bin\Debug\net6.0\VetoriusInfinitus.dll
+D:\Estudo\C#\POO\VetoriusInfinitus\VetoriusInfinitus\VetoriusInfinitus\bin\Debug\net6.0\VetoriusInfinitus.pdb
+D:\Estudo\C#\POO\VetoriusInfinitus\VetoriusInfinitus\VetoriusInfinitus\obj\Debug\net6.0\VetoriusInfinitus.csproj.AssemblyReference.cache
+D:\Estudo\C#\POO\VetoriusInfinitus\VetoriusInfinitus\VetoriusInfinitus\obj\Debug\net6.0\VetoriusInfinitus.GeneratedMSBuildEditorConfig.editorconfig
+D:\Estudo\C#\POO\VetoriusInfinitus\VetoriusInfinitus\VetoriusInfinitus\obj\Debug\net6.0\VetoriusInfinitus.AssemblyInfoInputs.cache
+D:\Estudo\C#\POO\VetoriusInfinitus\VetoriusInfinitus\VetoriusInfinitus\obj\Debug\net6.0\VetoriusInfinitus.AssemblyInfo.cs
+D:\Estudo\C#\POO\VetoriusInfinitus\VetoriusInfinitus\VetoriusInfinitus\obj\Debug\net6.0\VetoriusInfinitus.csproj.CoreCompileInputs.cache
+D:\Estudo\C#\POO\VetoriusInfinitus\VetoriusInfinitus\VetoriusInfinitus\obj\Debug\net6.0\VetoriusInfinitus.dll
+D:\Estudo\C#\POO\VetoriusInfinitus\VetoriusInfinitus\VetoriusInfinitus\obj\Debug\net6.0\refint\VetoriusInfinitus.dll
+D:\Estudo\C#\POO\VetoriusInfinitus\VetoriusInfinitus\VetoriusInfinitus\obj\Debug\net6.0\VetoriusInfinitus.pdb
+D:\Estudo\C#\POO\VetoriusInfinitus\VetoriusInfinitus\VetoriusInfinitus\obj\Debug\net6.0\VetoriusInfinitus.genruntimeconfig.cache
+D:\Estudo\C#\POO\VetoriusInfinitus\VetoriusInfinitus\VetoriusInfinitus\obj\Debug\net6.0\ref\VetoriusInfinitus.dll

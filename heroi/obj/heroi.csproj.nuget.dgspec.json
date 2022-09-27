@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Estudo\\C#\\POO\\heroi\\heroi\\heroi.csproj": {}
+    "D:\\Estudo\\C#\\POO\\heroi\\heroi.csproj": {}
   },
   "projects": {
-    "D:\\Estudo\\C#\\POO\\heroi\\heroi\\heroi.csproj": {
+    "D:\\Estudo\\C#\\POO\\heroi\\heroi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Estudo\\C#\\POO\\heroi\\heroi\\heroi.csproj",
+        "projectUniqueName": "D:\\Estudo\\C#\\POO\\heroi\\heroi.csproj",
         "projectName": "heroi",
-        "projectPath": "D:\\Estudo\\C#\\POO\\heroi\\heroi\\heroi.csproj",
+        "projectPath": "D:\\Estudo\\C#\\POO\\heroi\\heroi.csproj",
         "packagesPath": "C:\\Users\\Piltz\\.nuget\\packages\\",
-        "outputPath": "D:\\Estudo\\C#\\POO\\heroi\\heroi\\obj\\",
+        "outputPath": "D:\\Estudo\\C#\\POO\\heroi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
